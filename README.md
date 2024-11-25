@@ -1,6 +1,6 @@
 # Introdução ao HTML
 
-HTML (Hypertext Markup Language) é a linguagem de marcação padrão usada para criar páginas web. Ela permite estruturar conteúdo na web de forma hierárquica, utilizando elementos de marcação que descrevem títulos, parágrafos, links, imagens e outros conteúdos. HTML é a espinha dorsal de qualquer página na web, sendo fundamental para desenvolvedores web.
+HTML (Hypertext Markup Language) é a linguagem de marcação padrão usada para criar páginas web. Ela permite estruturar conteúdo na web de forma hierárquica, utilizando elementos de marcação que descrevem títulos, parágrafos, links, imagens e outros conteúdos. HTML é a espinha dorsal de qualquer página na web, é fundamental para desenvolvedores web.
 
 ## Estrutura Básica do HTML
 
